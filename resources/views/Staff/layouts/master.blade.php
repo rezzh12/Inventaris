@@ -1,0 +1,5 @@
+@include('Staff.layouts.header')
+@include('Staff.layouts.navbar')
+@include('Staff.layouts.sidebar')
+@include('Staff.layouts.content')
+@include('Staff.layouts.footer')
